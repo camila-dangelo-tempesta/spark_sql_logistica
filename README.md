@@ -7,7 +7,7 @@ The company tries to optimize the route of each vehicle by having the same vehic
 
 <div align="center">
 <p float="left">
-    <img src="/images/analytics.jpg" width="1000" height="500"/>
+    <img src="/images/spark.png" width="1000" height="350"/>
 </p>
 </div>
 
