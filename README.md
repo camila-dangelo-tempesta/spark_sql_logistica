@@ -31,6 +31,7 @@ The data used in this work are fictitious and the dataset has 3 columns:
 
 Using Spark SQL, we will perform a series of analyzes on the data in order to verify how the company's delivery logistics are performing.
 
+**Library**: [SQL and DataFrame](https://spark.apache.org/sql/)
 ***
 
 Made By **Camila D'Angelo**
